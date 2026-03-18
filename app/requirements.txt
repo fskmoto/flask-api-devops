@@ -1,0 +1,9 @@
+
+---
+
+## 4. Atualizar o `requirements.txt`
+
+Você já colocou `flask`, então está ok. Deixa assim:
+
+```txt
+flask
