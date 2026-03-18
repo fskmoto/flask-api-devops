@@ -1,6 +1,6 @@
-# Flask API DevOps
+# 🚀 Flask API DevOps Project
 
-Projeto simples de API em Flask para praticar conceitos de Cloud e DevOps.
+This project is part of my transition to Cloud & DevOps, focusing on hands-on practice with real-world tools.
 
 ## Tecnologias usadas
 
@@ -19,3 +19,8 @@ flask-api-devops/
 ├── docker-compose.yml
 ├── README.md
 └── .gitignore
+
+## 👨‍💻 Author
+
+Fabio Shindy Kuamoto  
+Infrastructure Architect transitioning to Cloud & DevOps
